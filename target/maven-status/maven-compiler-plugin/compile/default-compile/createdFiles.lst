@@ -1,0 +1,4 @@
+com\school\model\Student.class
+com\school\dao\StudentDao.class
+com\school\util\HibernateUtil.class
+com\school\web\StudentServlet.class
